@@ -3489,7 +3489,8 @@ iframe {
 }
 
 .header-top-section.style-v01 {
-    background: var(--p2-clr);
+    background:url(../../image/golden.jpg);
+    background-size: cover;
 }
 
 .header-top-section.style-v01 .header-top-wrapper .location-area {
