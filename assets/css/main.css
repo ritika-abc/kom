@@ -54,7 +54,7 @@
 }
 
 .p900-bg {
-    background: var(--p900-clr) !important;
+    background: #995f06 !important;
 }
 
 .p800-clr {
@@ -8287,7 +8287,7 @@ input.main-search-input::placeholder {
     width: 100%;
     height: 270px;
     content: "";
-    background: var(--p900-clr);
+    background: #d6d8db;
     z-index: -1;
 }
 
@@ -8313,7 +8313,7 @@ input.main-search-input::placeholder {
     padding: 20px 30px 40px 40px;
     width: 100%;
     border-radius: 0px 0px 5px 5px;
-    background: var(--p900-clr);
+    background: #a26c08;
 }
 
 .service-itemsv02 .content .iocns-box {
